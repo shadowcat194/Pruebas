@@ -224,3 +224,27 @@ Urgente: No
 DRIVEON: Sí
 Notas: Usuario indica que el vehiculo sigue en taller inicial, ya le hemos gestionado cita para el 16/02 en otro taller por el tema del radar, pero indican desde AUSIN MOTOR que se ha enviado presupuesto en dos ocasiones de lo que ellos han realizado y no han recibido respuesta, necesita autorización para poder retirar el vehiculo de este taller reparado y terminar la reparación en el otro.
 
+
+
+Motivo: no autorizamos reparacion
+Usuario: Pedro
+Matricula: CNP-2538-RZ
+Tlf: 669636758
+
+Plantilla,Reclamación Mantenimiento
+
+Matrícula: CNP-2538-RZ
+
+Nombre y apellidos: Pedro DIRECCION GENERAL DE LA POLICIA
+Móvil: 669636758
+Correo electrónico: FERROL.AUTOMOCION@POLICIA.ES
+Taller: PRIORAUTO S.L.
+Fecha entrada taller: 11/01/2023 00:00
+Tiempo inmovilización: 28 dias
+Motivo inmovilización: pdte de autorizacion
+Urgente: No
+DRIVEON: No
+Notas: Taller indica a cliente que tiene todo listo pendiente que autoricemos para proceder a montar vh
+Solicita que autoricemos reparacion (indican que peirto tiene que fiscalizar/autorizar reparación)
+
+Perito ya fue inicialmente para valoracion y ya se aportó presupuesto y todo lo necesario, Pte solo autorizacion
