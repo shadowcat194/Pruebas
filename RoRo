@@ -5,13 +5,19 @@ Jorge.Costas@es.bosch.com; mariaeleonora.vernascaordonez@es.bosch.com; gabriela.
 
 Soporte.Alphabet@es.bosch.com;
 01860
+Nuevo código de cliente de alphabet en fábrica %115421 _ A91001438
 68162 codigo alphabet fabrica
 63993 codigo alquileres a corto autoflotas
+
+Información de interés para el agente especialista de Vehículo de Sustitución:
+Alphabet %115421
+Autoflotas %114152
 
 
 TALLERES www.talleres.alphabet.es
 
 Informamos a usuario
+Gestionamos desde PAU
 Contacta usuario con la PAU, solicita información sobre su vehículo.
 Trasladamos información a usuario desde seguimiento PAU.
 Contactamos con usuario, trasladamos información, conforme.
@@ -29,7 +35,7 @@ Devolvemos proceso para seguimiento.
 Hemos comprobado taller corresponde
 Avanzamos para cierre de expediente.
 Avanzamos según notas anteriores
-Avanzamos para cierre según notas anteriores
+Avanzamos para cierre según notas anteriores.
 Avanzamos según notas anteriores, solicitada documentación a gestoría.
 Avanzamos según notas anteriores, custodia envía documentación.
 Avanzamos según notas anteriores, gestoría envía documentación.
@@ -68,11 +74,12 @@ COMPLETA Y SOLO UNA DE ELLAS al inicio de las anotaciónes, en “comentarios”
 Solo se debe anotar uno de estos conceptos y la palabra completa 
 ( si no anotáis la palabra completa en mayúscula y/o anotáis varias en comentarios no podremos filtrar y no podremos tener un 
 informe preciso de los motivos de recurrir a otro proveedor que no sea el prioritario)
+https://portal.rightnow.azure.cloud.bmw/
 
 RETRASO FABRICA//
 
 Continuamos sin respuesta, reportamos vía mail.
-
+Reiteramos correo, pendiente respuesta.
 
 
 Buenas tardes,
